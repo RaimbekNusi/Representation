@@ -9,6 +9,11 @@ The main purpose of this question is to practice data manipulation using numpy a
 The file provincial_seats.txt is provided as an example of database. Each line consists of a province or territory’s name, its population (rounded to the nearest thousand) and
 its number of seats in the government, all separated by commas.
 
+For example:
+
+![image](https://user-images.githubusercontent.com/86201781/126115182-6265ce09-018e-4323-87f1-1dd5470fd640.png)
+
+
 ## Step-by-step solution
 
 Using array operations on the loaded data, an array created that contains, for each province, the expected number of seats that each province WOULD have if its seats were exactly proportional to its population. Then the values are rounded
