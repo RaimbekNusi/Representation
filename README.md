@@ -1,4 +1,4 @@
-# Representation (Simple file I/O and numpy array operations)
+# Representation (Simple file I/O and numpy array operations/ENGLISH)
 ## Description of the problem
 
 In Canada, the federal government is made up of a number of seats. The seats are divided among the provinces; for example, Saskatchewan has 14 seats, while Ontario has 121. Using population data from the Canadian census the program is written to determine which provinces are over- or under- reprented in the federal government based on their populations.
@@ -28,3 +28,5 @@ Using array relational operators and logical indexing to create three arrays for
 Then the same will be done for the under-represented provinces.
 
 Finally, printing the results to the console. 
+
+
