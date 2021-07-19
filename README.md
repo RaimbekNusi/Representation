@@ -27,6 +27,19 @@ Then the same will be done for the under-represented provinces.
 
 Finally, printing the results to the console. 
 
+## How to use
+
+Here are the steps for how to open, use and utilize the program:
+
+- First, download all of the files listed above;
+- Put all the files in one folder;
+- Open the file Project_k-means.py;
+- The program will open a command console in which it will ask you to name a .txt file located in the same folder;
+- Finally, the program will output a graph with results clusterized data.
+
+
+*The program can use other .txt file that are in the same format as provided files.
+
 # Репрезентация (простой файловый ввод-вывод и операции с массивом numpy / РУССКИЙ)
 
 ## Описание задачи
