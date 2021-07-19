@@ -7,9 +7,7 @@ The main purpose of this question is to practice data manipulation using numpy a
 
 ## Details of the problem
 The file provincial_seats.txt is provided as an example of database. Each line consists of a province or territory’s name, its population (rounded to the nearest thousand) and
-its number of seats in the government, all separated by commas.
-
-For example:
+its number of seats in the government, all separated by commas:
 
 ![image](https://user-images.githubusercontent.com/86201781/126115182-6265ce09-018e-4323-87f1-1dd5470fd640.png)
 
@@ -29,12 +27,19 @@ Then the same will be done for the under-represented provinces.
 
 Finally, printing the results to the console. 
 
-## Репрезентация (простой файловый ввод-вывод и операции с массивом numpy / РУССКИЙ)
+# Репрезентация (простой файловый ввод-вывод и операции с массивом numpy / РУССКИЙ)
 
-# Описание задачи
+## Описание задачи
 
 В Канаде федеральное правительство состоит из нескольких мест. Места разделены между провинциями; например, Саскачеван имеет 14 мест, а Онтарио - 121. Используя данные о населении из канадской переписи, программа написана для определения того, какие провинции чрезмерно или недостаточно представлены в федеральном правительстве в зависимости от их населения.
 
+Основная цель этого вопроса - практика в манипулировании данными с использованием массивов numpy. Поэтому все важные вычисления должны выполняться с использованием операций с массивом numpy. В этой программе используются арифметика массивов, отношения массивов и логическая индексация массивов.
+
+## Детали задачи
+
+Файл provincial_seats.txt предоставляется в качестве примера базы данных. Каждая строка состоит из названия провинции или территории, ее населения (округляется до ближайшей тысячи) и количества мест в правительстве, разделенных запятыми:
+
+![image](https://user-images.githubusercontent.com/86201781/126115182-6265ce09-018e-4323-87f1-1dd5470fd640.png)
 
 
 
