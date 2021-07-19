@@ -1,11 +1,11 @@
-#Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long
 import numpy as np
 ln=[]
 lp=[]
 ls=[]
 l=[]
 newl=[]
-f = open("provincial_seats.txt", "r")
+k = input("Write the name of the .txt file")
+f = open(k, "r")
 for line in f:
     l.append(line)
 for i in l:
